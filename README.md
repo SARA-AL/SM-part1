@@ -1,2 +1,2 @@
 # SM-part1
-task1 fir Industrial engineer and system
+task1 for Industrial engineer and system
